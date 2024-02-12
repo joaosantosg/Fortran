@@ -1,4 +1,4 @@
-program amor
+program hello
 
-    print *, 'Eu te amo meu amor'
-end program amor
+    print *, 'Hello, World!'
+end program hello
